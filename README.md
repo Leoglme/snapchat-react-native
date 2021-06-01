@@ -1,1 +1,0 @@
-snapchat-react-native
